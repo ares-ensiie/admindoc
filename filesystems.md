@@ -17,6 +17,8 @@ Ronflex est utilisé pour le stockage des données utilisateur et le stockage de
   - Biere : `/exports/mysql`
 - Le volume `/exports/git` est monté sur :
   - Biere : `/exports/git`
+- Le volume `/exports/psql` est monté sur :
+  - Biere : `/exports/psql`
 
 ### Exporter un dossier avec NFS
 
@@ -125,3 +127,4 @@ sudo mount -a
   - `/dev/Data/Infra` => `/exports/Infra`
   - `/dev/Data/MySQL` => `/exports/mysql`
   - `/dev/Data/Git`   => `/exports/git`
+  - `/dev/Data/PSQL`  => `/exports/psql`
