@@ -69,3 +69,7 @@ Il gère:
 Géré par l'ISU il permet de gérer le WIFI. Nous n'avons aucune accès dessus.
 IP:
 - ??? : 10.0.0.100
+
+## Gandalf :
+Switch cisco en salle serveur:
+IP : 10.0.1.1
